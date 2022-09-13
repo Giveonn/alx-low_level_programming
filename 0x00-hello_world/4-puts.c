@@ -5,9 +5,9 @@
 *
 * Description: using the main function
 * this program prints "programming is like building a multilingual puzzle
-* Retunrn: 0
+* Return: 0
 */
 int main(void)
 {	puts("programming is like building a multilingual puzzle\n");
-	return (0);
+	return: (0);
 }
