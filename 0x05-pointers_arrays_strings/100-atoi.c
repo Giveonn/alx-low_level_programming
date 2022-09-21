@@ -31,6 +31,7 @@ int _atoi(char *s)
 				res = (res * 10) + *(s + ind2) - '0';
 				ind2++;
 			}
+	
 			break;
 		}
 		index++;
